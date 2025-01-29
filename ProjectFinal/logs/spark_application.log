@@ -1,0 +1,193 @@
+2025-01-24 13:19:12 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:19:48 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:21:05 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:22:14 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:23:14 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:24:42 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:27:00 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:28:31 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:30:03 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:31:27 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:32:36 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:34:05 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 13:34:45 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:38:01 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:41:15 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:44:09 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:45:46 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:48:15 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:49:49 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:52:00 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:55:14 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:58:18 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 17:59:27 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:22:10 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:24:58 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:26:15 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:26:50 [WARN ] CSVDataSource - CSV header does not conform to the schema.
+ Header: supplier_id, lead_time, reliability_score, country, store_id
+ Schema: supplier_id, lead_time, reliability_score, country , store_id
+Expected: country  but found: country
+CSV file: file:///C:/Users/Admin/Desktop/Restart/ProjectA_Dataset/2025-01-24/supplier.csv
+2025-01-24 18:30:14 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:32:29 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:34:02 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:36:47 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:41:43 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:44:36 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:47:12 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:47:27 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:48:02 [WARN ] CSVDataSource - CSV header does not conform to the schema.
+ Header: supplier_id, lead_time, reliability_score, country, store_id
+ Schema: supplier_id, lead_time, reliability_score, country , store_id
+Expected: country  but found: country
+CSV file: file:///C:/Users/Admin/Desktop/Restart/ProjectA_Dataset/2025-01-24/supplier.csv
+2025-01-24 18:48:51 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:49:26 [WARN ] CSVDataSource - CSV header does not conform to the schema.
+ Header: supplier_id, lead_time, reliability_score, country, store_id
+ Schema: supplier_id, lead_time, reliability_score, country , store_id
+Expected: country  but found: country
+CSV file: file:///C:/Users/Admin/Desktop/Restart/ProjectA_Dataset/2025-01-24/supplier.csv
+2025-01-24 18:55:07 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 18:56:21 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 19:00:06 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 19:02:00 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 19:02:45 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 19:05:53 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 19:10:59 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 19:16:40 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-24 19:17:12 [WARN ] IndexShuffleBlockResolver - Error deleting data C:\Users\Admin\AppData\Local\Temp\blockmgr-3720705c-1fdf-4c57-a80b-c2ef2d25cc5f\02\shuffle_8_145_0.data
+2025-01-25 14:32:07 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 14:32:12 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 14:33:04 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 14:50:39 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 14:53:37 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 15:03:56 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 15:05:24 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 15:07:51 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 15:17:12 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 15:31:54 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 15:33:06 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:10:42 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:13:33 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:19:43 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:27:59 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:40:35 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:42:00 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:43:47 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:47:36 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 18:59:04 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 19:02:06 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 19:02:54 [WARN ] Column - Constructing trivially true equals predicate, ''supplier_id = 'supplier_id'. Perhaps you need to use aliases.
+2025-01-25 19:03:32 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-25 19:04:13 [WARN ] Column - Constructing trivially true equals predicate, ''supplier_id = 'supplier_id'. Perhaps you need to use aliases.
+2025-01-26 08:50:40 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 08:52:17 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 08:55:53 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 08:57:48 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 09:01:19 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 09:04:00 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 09:08:44 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 09:12:14 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 09:12:54 [WARN ] Column - Constructing trivially true equals predicate, 'supplier_id#2184 = supplier_id#2184'. Perhaps you need to use aliases.
+2025-01-26 09:16:09 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 09:18:03 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 09:20:29 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 10:05:01 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 11:17:04 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 12:39:34 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 12:45:11 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 12:58:50 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 13:03:19 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 13:05:39 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 13:09:15 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 13:11:30 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 13:17:47 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 13:18:50 [WARN ] WindowExec - No Partition Defined for Window operation! Moving all data to a single partition, this can cause serious performance degradation.
+2025-01-26 17:28:27 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 17:39:33 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 17:41:57 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:27:21 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:29:30 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:33:23 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:36:56 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:39:45 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:41:30 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:43:29 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:46:19 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:48:41 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:52:13 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 18:58:31 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 21:02:44 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 21:05:49 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 21:26:06 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 21:30:09 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 21:32:19 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 21:34:34 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:07:05 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:15:34 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:19:28 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:25:36 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:29:16 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:33:27 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:36:16 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:39:14 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:42:22 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:42:58 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:46:18 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-26 22:47:33 [WARN ] IndexShuffleBlockResolver - Error deleting index C:\Users\Admin\AppData\Local\Temp\blockmgr-c765d5c4-210f-4f23-b847-ffb0e08b0dea\00\shuffle_8_42_0.index
+2025-01-26 22:47:33 [WARN ] IndexShuffleBlockResolver - Error deleting data C:\Users\Admin\AppData\Local\Temp\blockmgr-c765d5c4-210f-4f23-b847-ffb0e08b0dea\11\shuffle_16_192_0.data
+2025-01-27 11:43:58 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-27 11:45:22 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-27 11:47:56 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-27 11:50:03 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-27 12:17:17 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-27 12:22:49 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-27 12:25:41 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-27 12:28:20 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-27 12:58:43 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 10:29:48 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 10:29:54 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 10:29:57 [INFO ] MasterPipeline$ - Reading the data from source fileC:\Users\Admin\Desktop\Restart\ProjectA_Dataset
+2025-01-28 11:42:18 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 11:42:24 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 11:42:28 [INFO ] MasterPipeline$ - Reading the data from source fileC:\Users\Admin\Desktop\Restart\ProjectA_Dataset
+2025-01-28 11:43:02 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 11:43:08 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 11:43:11 [INFO ] MasterPipeline$ - Reading the data from source fileC:\Users\Admin\Desktop\Restart\ProjectA_Dataset
+2025-01-28 12:02:48 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:02:54 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:02:57 [INFO ] MasterPipeline$ - Reading the data from source fileC:\Users\Admin\Desktop\Restart\ProjectA_Dataset
+2025-01-28 12:03:55 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:04:01 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:04:04 [INFO ] MasterPipeline$ - Reading the data from source fileC:\Users\Admin\Desktop\Restart\ProjectA_Dataset
+2025-01-28 12:10:32 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:10:38 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:10:41 [INFO ] MasterPipeline$ - Reading the data from source fileC:\Users\Admin\Desktop\Restart\ProjectA_Dataset
+2025-01-28 12:11:27 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:11:32 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:11:35 [INFO ] MasterPipeline$ - Reading the data from source fileC:\Users\Admin\Desktop\Restart\ProjectA_Dataset
+2025-01-28 12:13:00 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:13:06 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:13:09 [INFO ] RetailDataProcessor - Reading the data from source file C:\Users\Admin\Desktop\Restart\ProjectA_Dataset//2025-01-28
+2025-01-28 12:15:16 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:15:22 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:15:24 [INFO ] RetailDataProcessor - Reading the data from source file C:\Users\Admin\Desktop\Restart\ProjectA_Dataset\2025-01-28
+2025-01-28 12:16:23 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:16:29 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:16:31 [INFO ] RetailDataProcessor - Reading the data from source file C:\Users\Admin\Desktop\Restart\ProjectA_Dataset\2025-01-28
+2025-01-28 12:19:58 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:20:04 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:20:07 [INFO ] RetailDataProcessor - Reading the data from source file C:\Users\Admin\Desktop\Restart\ProjectA_Dataset\2025-01-28
+2025-01-28 12:31:16 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:31:22 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:31:24 [INFO ] RetailDataProcessor - Reading the data from source file C:\Users\Admin\Desktop\Restart\ProjectA_Dataset\2025-01-28
+2025-01-28 12:33:38 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:33:44 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:33:47 [INFO ] RetailDataProcessor - Reading the data from source file C:\Users\Admin\Desktop\Restart\ProjectA_Dataset\2025-01-28
+2025-01-28 12:36:49 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 12:36:56 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 12:36:59 [INFO ] RetailDataProcessor - Reading the data from source file C:\Users\Admin\Desktop\Restart\ProjectA_Dataset\2025-01-28
+2025-01-28 18:44:09 [INFO ] MasterPipeline$ - Initializing Spark Session
+2025-01-28 18:44:14 [WARN ] NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2025-01-28 18:44:18 [INFO ] RetailDataProcessor - Reading the data from source file C:\Users\Admin\Desktop\Restart\ProjectA_Dataset\2025-01-28
